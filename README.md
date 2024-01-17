@@ -1,7 +1,7 @@
 ![Formatting Badge](https://github.com/Larisa106/hfkujvhtyn/assets/156215325/a8df491a-7717-4a03-b8ce-c7ab290d37b3)
 ![Styling Badge](https://github.com/Larisa106/hfkujvhtyn/assets/156215325/dddc1444-2fe9-4509-82fe-327060ee0eae)
-![Selector Badge](https://github.com/Larisa106/hfkujvhtyn/assets/156215325/2b6224f6-5b7d-44f6-a3f4-90a37bae8b18)
-![Create Your Homepage Badge](https://github.com/Larisa106/hfkujvhtyn/assets/156215325/c06f1f9f-e7b5-4bca-a60e-ad0cdd466e4a)
+
+ ![Create Your Homepage Badge](https://github.com/Larisa106/hfkujvhtyn/assets/156215325/c06f1f9f-e7b5-4bca-a60e-ad0cdd466e4a)
 ![Karel Turns Right Badge](https://github.com/Larisa106/hfkujvhtyn/assets/156215325/c6b52e04-30d5-412b-b563-7e9f030106ef)
 ![Super Karel Badge](https://github.com/Larisa106/hfkujvhtyn/assets/156215325/3a46751a-0b20-4c57-a484-2c98c95c6a67)
 ![Conditional Karel Badge](https://github.com/Larisa106/hfkujvhtyn/assets/156215325/6c002eda-ea98-439c-8b76-3c0131ac5a21)
